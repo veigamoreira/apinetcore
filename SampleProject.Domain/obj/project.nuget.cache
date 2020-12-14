@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nuzlWZBEvkAhLStLPxLPEd4rg8F8gpn8/F6FaNwM27QmhfMGZmP3+0y+R9hpnKS237Dkbd6OvO+HvKu1L3Q2Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pauloc\\Downloads\\apinetcore-main\\apinetcore-main\\SampleProject.Domain\\SampleProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pauloc\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

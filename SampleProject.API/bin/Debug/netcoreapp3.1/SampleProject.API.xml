@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SampleProject.API</name>
+    </assembly>
+    <members>
+        <member name="M:SampleProject.API.Customers.CustomersController.RegisterCustomer(SampleProject.Application.Customers.RegisterCustomer.RegisterCustomerRequest)">
+            <summary>
+            Register customer.
+            </summary>
+        </member>
+        <member name="M:SampleProject.API.Customers.CustomersController.UpdateCustomer(SampleProject.Application.Customers.RegisterCustomer.UpdateCustomerRequest)">
+            <summary>
+            Register customer.
+            </summary>
+        </member>
+        <member name="M:SampleProject.API.Customers.CustomersController.DeleteCustomer(System.Guid)">
+            <summary>
+            Delete customer.
+            </summary>
+        </member>
+        <member name="M:SampleProject.API.Customers.CustomersController.GetCustomerOrderDetails(System.Guid)">
+            <summary>
+            Get customer details.
+            </summary>
+            <param name="customerId">Order ID.</param>
+        </member>
+    </members>
+</doc>

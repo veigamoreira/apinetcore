@@ -1,0 +1,4 @@
+C:\Users\vagner.veiga\Downloads\sample-dotnet-core-cqrs-api-master\sample-dotnet-core-cqrs-api-master\src\Tests\SampleProject.IntegrationTests\obj\Debug\netcoreapp3.1\SampleProject.IntegrationTests.csprojAssemblyReference.cache
+C:\Users\vagner.veiga\Downloads\sample-dotnet-core-cqrs-api-master\sample-dotnet-core-cqrs-api-master\src\Tests\SampleProject.IntegrationTests\obj\Debug\netcoreapp3.1\SampleProject.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\vagner.veiga\Downloads\sample-dotnet-core-cqrs-api-master\sample-dotnet-core-cqrs-api-master\src\Tests\SampleProject.IntegrationTests\obj\Debug\netcoreapp3.1\SampleProject.IntegrationTests.AssemblyInfo.cs
+C:\Users\vagner.veiga\Downloads\sample-dotnet-core-cqrs-api-master\sample-dotnet-core-cqrs-api-master\src\Tests\SampleProject.IntegrationTests\obj\Debug\netcoreapp3.1\SampleProject.IntegrationTests.csproj.CoreCompileInputs.cache
